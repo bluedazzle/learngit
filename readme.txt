@@ -1,2 +1,1 @@
-txt tEst
-add old
+This is a practise of git
